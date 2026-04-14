@@ -22,3 +22,27 @@ A SOC analyst receives an alert indicating repeated failed SSH login attempts ag
 |----------        |    ------|
 | Kali Linux       | Attacker / Analyst |
 | Metasploitable2  | SSH Target |
+
+
+## 5. Baseline Authentication Log Review
+
+Reviewed `/var/log/auth.log` prior to attack simulation to establish baseline authentication activity.
+
+Observed:
+- Normal sudo session activity
+- Scheduled cron jobs
+- SSH daemon logging reconnaissance-related connection anomalies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
