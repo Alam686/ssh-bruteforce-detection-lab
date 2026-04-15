@@ -35,6 +35,26 @@ Observed:
 
 
 
+## Findings
+
+- Detected repeated failed SSH authentication attempts against user `msfadmin`
+- Source IP `192.168.56.104` generated high-volume login failures within seconds
+- PAM aggregated multiple failures, indicating automated attack behavior
+- Brute-force attack successfully identified valid credentials: `msfadmin:msfadmin`
+- Validated unauthorized SSH access using discovered credentials
+
+
+## MITRE ATT&CK Mapping
+
+- T1110 – Brute Force
+- T1078 – Valid Accounts
+
+
+
+
+
+
+
 
 
 
