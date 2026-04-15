@@ -46,8 +46,17 @@ Observed:
 - T1078 – Valid Accounts
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------
 
+## Remediation Verification
 
+Re-ran brute-force attack against SSH service using original attack methodology after password hardening.
+
+Result:
+- No valid credentials discovered
+- Brute-force attack unsuccessful
+
+This confirms remediation effectively mitigated the original finding.
 
 
 
