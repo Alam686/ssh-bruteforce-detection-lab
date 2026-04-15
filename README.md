@@ -63,9 +63,20 @@ MITRE Mitigation:
 - M1027 – Password Policies
 - M1036 – Account Use Policies
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
+## 8. During attack simulation using Hydra, connection failed due to SSH MAC algorithm mismatch.
 
+Root Cause:
+Metasploitable2 uses outdated SSH (OpenSSH 4.x) supporting deprecated MAC algorithms.
 
+Hydra (modern version) does not support these weak MACs by default.
+
+Resolution:
+Switched to Ncrack, which successfully performed brute-force attack against legacy SSH service.
+
+Learning:
+Tool compatibility with legacy systems is critical during penetration testing.
 
 
 
