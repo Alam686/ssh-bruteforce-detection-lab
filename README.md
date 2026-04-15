@@ -48,7 +48,7 @@ Observed:
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-## Remediation Verification
+## 7. Remediation Verification
 
 Re-ran brute-force attack against SSH service using original attack methodology after password hardening.
 
