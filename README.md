@@ -59,7 +59,9 @@ Result:
 This confirms remediation effectively mitigated the original finding.
 
 
-
+MITRE Mitigation:
+- M1027 – Password Policies
+- M1036 – Account Use Policies
 
 
 
